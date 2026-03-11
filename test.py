@@ -219,9 +219,9 @@ st.sidebar.write("Select models to run:")
 # 定义可用模型列表
 # 这里包含了您提到的所有三个模型文件
 model_options = {
-    "MC Dropout": {"file": "mc_dropout.pt", "type": "mc_dropout"},
-    "Bayesian Linear": {"file": "bayesian_linear.pt", "type": "vi"}, # 假设这也是 VI 结构
-    "Variational Inference": {"file": "variational_inference.pt", "type": "vi"}
+    "MC Dropout": {"file": "checkpoints/mc_dropout.pt", "type": "mc_dropout"},
+    "Bayesian Linear": {"file": "checkpoints/bayesian_linear.pt", "type": "vi"}, # 假设这也是 VI 结构
+    "Variational Inference": {"file": "checkpoints/variational_inference.pt", "type": "vi"}
 }
 
 # 默认全选，或者根据文件是否存在动态选择
