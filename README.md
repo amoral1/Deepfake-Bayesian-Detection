@@ -285,7 +285,7 @@ Or access our published link: `https://test-bayesian-detection.streamlit.app/`
 - scikit-learn, NumPy, Pandas, Matplotlib
 - OpenCV, Pillow, facenet-pytorch
 
-## Future Expansion
+### Future Expansion
 - More Data for Robustness
 - A video-level pipeline
 - A deployable product surface
