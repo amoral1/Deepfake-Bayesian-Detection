@@ -1,5 +1,7 @@
 # Deepfake Detection with Bayesian Uncertainty Quantification
 
+<sub>Bayesian Machine Learning — ADS Final Project &nbsp;|&nbsp; Anais Morales &nbsp;·&nbsp; Estella Hu &nbsp;·&nbsp; Gaoyuan Gu &nbsp;·&nbsp; Khalil He</sub>
+
 > Can we not only detect deepfakes, but also *know when we don't know*?
 
 This project applies **Bayesian Machine Learning** to deepfake image detection, going beyond simple binary classification by providing **calibrated uncertainty estimates** for every prediction. When the model is unsure, it tells you — enabling safer, more trustworthy deployment in high-stakes scenarios.
@@ -282,4 +284,3 @@ Or access our published link: `https://test-bayesian-detection.streamlit.app/`
 - Streamlit (interactive demo)
 - scikit-learn, NumPy, Pandas, Matplotlib
 - OpenCV, Pillow, facenet-pytorch
-
