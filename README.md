@@ -1,6 +1,6 @@
 # Deepfake Detection with Bayesian Uncertainty Quantification
 
-<sub>Bayesian Machine Learning — ADS Final Project &nbsp;|&nbsp; Anais Morales &nbsp;·&nbsp; Estella Hu &nbsp;·&nbsp; Gaoyuan Gu &nbsp;·&nbsp; Khalil He</sub>
+<sub>**Authors:** Anais Morales &nbsp;·&nbsp; Estella Hu &nbsp;·&nbsp; Gaoyuan Gu &nbsp;·&nbsp; Khalil He</sub>
 
 > Can we not only detect deepfakes, but also *know when we don't know*?
 
