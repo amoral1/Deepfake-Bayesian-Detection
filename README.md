@@ -15,6 +15,13 @@ Traditional deepfake detectors output a hard label (real/fake) or a single proba
 **Bayesian approaches** address this by maintaining distributions over model parameters instead of point estimates, naturally producing uncertainty quantification at inference time.
 
 ---
+## Future Expansion
+- More Data for Robustness
+- A video-level pipeline
+- A deployable product surface
+- Human-in-the-loop + monitoring
+
+---
 
 ## Project Pipeline
 
@@ -284,9 +291,3 @@ Or access our published link: `https://test-bayesian-detection.streamlit.app/`
 - Streamlit (interactive demo)
 - scikit-learn, NumPy, Pandas, Matplotlib
 - OpenCV, Pillow, facenet-pytorch
-
-### Future Expansion
-- More Data for Robustness
-- A video-level pipeline
-- A deployable product surface
-- Human-in-the-loop + monitoring
