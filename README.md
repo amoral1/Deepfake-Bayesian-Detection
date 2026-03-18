@@ -252,7 +252,7 @@ streamlit run test.py
 
 Then open `http://localhost:8501` in your browser.
 
-Or access our published link: `https://test-bayesian-detection.streamlit.app/`
+Or access our published link: `portfolio.anaismorales.com/deepfakebayesian`
 
 ---
 
